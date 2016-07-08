@@ -4,7 +4,7 @@
 	<groupId>com.cisco.vcse.automation.utils</groupId>
 	<artifactId>core-Utils</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0.1</version>
+	<version>1.0.0.1-SNAPSHOT</version>
 	<name>core-Utils</name>
 	<description>core-Utils</description>
 	<properties>
@@ -78,7 +78,7 @@
               <!-- matches distribution management repository url above -->
               <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>
               <!-- remote branch name -->
-              <branch>refs/master</branch>
+              <branch>refs/origin/master</branch>
               <!-- If you remove this then the old artifact will be removed and new 
                one will replace. But with the merge tag you can just release by changing 
                                                 the version -->
