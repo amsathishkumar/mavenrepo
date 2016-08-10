@@ -1,4 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jul 08 12:07:06 IST 2016
-https\://repo.maven.apache.org/maven2/.lastUpdated=1467959826415
-https\://repo.maven.apache.org/maven2/.error=
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.oracle</groupId>
+  <artifactId>ojdbc6</artifactId>
+  <version>11.2.0.3</version>
+  <description>POM was created by Sonatype Nexus</description>
+</project>
