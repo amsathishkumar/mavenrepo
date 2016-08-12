@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project
+	xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	
+	
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.informix</groupId>
+	<artifactId>jdbc</artifactId>
+	<version>IfxDriver</version>
+
+	<name>Informix JDBC Driver</name>
+	<description>Informix JDBC driver classes for use with JDK1.4</description>
+	<url>http://www-01.ibm.com/software/data/informix/</url>
+	
+	
+	<organization>
+		<name>IBM Corporation</name>
+		<url>http://www.ibm.com</url>
+	</organization>
+	
+</project>
+
+
+
+
+

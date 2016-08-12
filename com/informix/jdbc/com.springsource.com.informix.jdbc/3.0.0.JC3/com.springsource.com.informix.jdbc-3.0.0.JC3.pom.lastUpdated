@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 10 14:46:10 IST 2016
+http\://10.78.216.186\:8081/artifactory/SIT-local/.lastUpdated=1470820275534
+http\://10.78.216.186\:8081/artifactory/libs-snapshot/.error=
+http\://10.78.216.186\:8081/artifactory/libs-release/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1470820570949
+http\://10.78.216.186\:8081/artifactory/SIT-local/.error=
+http\://10.78.216.186\:8081/artifactory/libs-release/.lastUpdated=1470820276321
+https\://repo.maven.apache.org/maven2/.error=
+http\://10.78.216.186\:8081/artifactory/libs-snapshot/.lastUpdated=1470820276422
