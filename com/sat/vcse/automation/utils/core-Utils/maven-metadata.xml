@@ -3,9 +3,11 @@
   <groupId>com.sat.vcse.automation.utils</groupId>
   <artifactId>core-Utils</artifactId>
   <versioning>
+    <release>1.0.0.2</release>
     <versions>
       <version>1.0.0.1-SNAPSHOT</version>
+      <version>1.0.0.2</version>
     </versions>
-    <lastUpdated>20160816101756</lastUpdated>
+    <lastUpdated>20160816111652</lastUpdated>
   </versioning>
 </metadata>
